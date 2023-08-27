@@ -4,13 +4,10 @@ body, h1, h2, h3, p, ul, li {
     padding: 0;
 }
 
-/* Load pixelated fonts */
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
+/* Set nostalgic fonts */
 body {
     background-color: #008080; /* Teal */
-    font-family: 'Press Start 2P', monospace;
-    font-size: 16px; /* Adjust as needed */
+    font-family: "MS Sans Serif", "Tahoma", Geneva, sans-serif;
 }
 
 /* Style header */
@@ -37,7 +34,7 @@ nav a {
     color: #ffffff;
     text-decoration: none;
     padding: 10px 20px;
-    font-family: 'Press Start 2P', monospace;
+    font-family: "MS Sans Serif", "Tahoma", Geneva, sans-serif;
 }
 
 nav a:hover {
@@ -55,7 +52,7 @@ section {
 h2 {
     color: #1a1a1a;
     margin-bottom: 10px;
-    font-family: 'Press Start 2P', monospace;
+    font-family: "MS Sans Serif", "Tahoma", Geneva, sans-serif;
 }
 
 /* Style footer */
@@ -64,5 +61,5 @@ footer {
     color: #ffffff;
     text-align: center;
     padding: 10px;
-    font-family: 'Press Start 2P', monospace;
+    font-family: "MS Sans Serif", "Tahoma", Geneva, sans-serif;
 }
